@@ -1,4 +1,4 @@
-echo ---------------------------------
+echo "-----this is the change made in the new branch ---------------------------"
 
 echo "hostname:$(hostname) | user: $USER | date: $(date) | OS version: $(lsb_release -ds)"
 
